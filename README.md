@@ -1,1 +1,4 @@
-# pr-ds2t-2022
+# Pull Request
+
+## Lista da equipe:
+* Fernando Leonid
