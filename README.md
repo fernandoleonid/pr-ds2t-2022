@@ -2,3 +2,4 @@
 
 ## Lista da equipe:
 * Fernando Leonid
+* Millena Ferreira
