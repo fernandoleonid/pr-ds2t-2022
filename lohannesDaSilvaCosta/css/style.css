@@ -1,0 +1,35 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+a{
+    text-decoration: none;
+}
+
+ul, ol, li {
+    list-style-type: none;
+  }
+
+body{
+    background-color: gray;
+    display: grid;
+    place-items: center center;
+}
+
+h1{
+    color: rgb(67, 5, 92);
+    transition: all .5s;
+}
+
+div{
+    transform: translateY(300%);
+    height: 100px;
+}
+
+div:hover h1{
+    text-shadow: -1px 1px 0px #fff;
+    color: red;
+    transform: scale(110%) rotate(360deg);
+}
