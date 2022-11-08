@@ -7,6 +7,13 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    font-size: 4.5rem;
+    font-size: 5rem;
     color: #006BFF;
+}
+
+.logo:hover{
+    font-size: 5rem;
+    transition: .3s;
+    color: #ffff;
+    background-color: #006BFF;
 }
