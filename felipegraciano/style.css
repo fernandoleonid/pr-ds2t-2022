@@ -1,0 +1,14 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: white;
+}
+.titulo{
+    text-align: center;
+    color: black;
+    font-size: 4rem;
+    font-style: italic;
+}
