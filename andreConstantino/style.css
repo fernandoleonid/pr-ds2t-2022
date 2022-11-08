@@ -1,0 +1,15 @@
+body{
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+}
+.text-container{
+    align-items: center;
+    justify-content: center;
+}
+.text{
+    color: rebeccapurple;
+    text-align: center;
+    font-style: italic;
+    font-size: 100px;
+}
