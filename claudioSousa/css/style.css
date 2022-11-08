@@ -1,0 +1,17 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+body{
+    background-image: url(../img/palmeirasfiufiu.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1{
+    color: #fff;
+    text-align: center;
+}
