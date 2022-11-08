@@ -1,0 +1,9 @@
+body{
+    width: 100vh;
+}
+.tittle-name{
+    font-family: 'Island Moments', cursive;
+    font-size: 10rem;
+    margin-left: 10rem;
+    margin-top: 10rem;
+}
