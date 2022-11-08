@@ -4,10 +4,20 @@
     margin: 0;
 }
 
+
+
 .title{
     display: flex;
+   
     justify-content: center;
     align-items: center;
     font-size: 5rem;
     color: green;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.title:hover{
+    font-size: 6rem;
+    transition: 1s;
+    color: white;
+    background-color: black;
 }
