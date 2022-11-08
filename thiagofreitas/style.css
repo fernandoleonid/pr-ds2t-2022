@@ -1,0 +1,11 @@
+.container{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.name{
+    font-size: 4.5rem;
+    color: cornflowerblue;
+    font-family: 'Courier New', Courier, monospace;
+}
