@@ -9,11 +9,13 @@
     align-items: center;
     font-size: 5rem;
     color: #006BFF;
+    cursor: pointer;
+    transition: all .8s;
 }
 
 .logo:hover{
     font-size: 5rem;
-    transition: .3s;
     color: #ffff;
     background-color: #006BFF;
+    box-shadow: inset 0px 0px 5px #ffff;
 }
