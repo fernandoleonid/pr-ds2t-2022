@@ -2,5 +2,5 @@
 
 ## Lista da equipe:
 * Fernando Leonid
+* Mateus Alves da Silva
 * Alexssandro da Silva Gomes
-* Fernando Leonid
