@@ -1,0 +1,8 @@
+body {
+    display: flex;
+    justify-content: center;
+    color: #ffffff;
+    background-color: black;
+    font-size: 2rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
